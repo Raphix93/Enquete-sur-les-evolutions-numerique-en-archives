@@ -21,9 +21,7 @@ Le rendu contient les éléments suivants :
 
 - un README détaillant le contenu du rendu.
 - Mention de la licence pour les données de cette étude.
-- Le dossier Enquête contenant les réponses à celle-ci.
-- Le dossier Notebook contient le code python utilisée pour générer les visualisations de données et calculer les statistiques.
 - Le dossier Rapport contient le rapport d'étude, soit les résultats en contexte et interprétés.
-- Le dossier Statistiques contient les données statistiques utilisées pour mon étude.
+- Le dossier Annexes contient toutes les Statistiques, les données de l'enquête et les notebook codés en python utilisés pour générer les visualisations de données et calculer les statistiques.
 
 
