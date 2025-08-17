@@ -1,4 +1,4 @@
-# README - Enquete sur les evolutions numerique en archives en Suisse romandes
+# README - Etude sur la diffusion des archives à l'ère numérique 
 
 
 
@@ -9,12 +9,11 @@ Master en Patrimoine régional et humanités numériques <br>
 
 ## Résumé
 
-Dans le cadre du séminaire « Archives sensibles, archives confisquées : enjeux épistémologiques et sociaux » de l’Université de Neuchâtel, ce rapport se concentre sur la fonction archivistique de la diffusion appliquée à notre ère dite numérique. La problématique abordée vise à apporter une meilleure vision des évolutions professionnelles actuelles, mais aussi futures pour les archivistes, et l’impact du numérique sur cet environnement. <br>
+Dans le cadre de mon Master en Patrimoine régional et humanités numérique à l’Université de Neuchâtel, ce travail se concentre sur la fonction archivistique de la diffusion appliquée à notre ère dite numérique. Ce sujet sera abordé par l’axe de l'accessibilité et de la sélection des archives et vise à apporter une meilleure vision des évolutions professionnelles actuelles, mais aussi futures pour les archivistes, et l’impact du numérique sur cet environnement. <br> 
 
-Ce rapport introduira les thématiques par des éléments quantitatifs avec les indicateurs de la diffusion des archives en Suisse issues directement des institutions mais aussi des éléments qualitatifs notamment avec une enquête effectuée auprès des directions d’institutions cantonales d’archives en Suisse romande. Cette étude analysera l’impact de stratégie numérique appliqué à la diffusion d’archives notamment celui des Archives fédérales suisses et la stratégie numérique suisse 2025. Ce sujet sera abordé par l’axe de l'accessibilité et de la sélection des archives. <br>
+Cette étude introduira les thématiques par des éléments quantitatifs avec les indicateurs de la diffusion des archives en Suisse issue directement des institutions. Mais aussi des éléments qualitatifs notamment avec une enquête effectuée auprès des directions d’institutions cantonales d’archives en Suisse romande. Cette étude analysera l’impact de stratégies numériques appliquées à la diffusion d’archives, notamment celui des Archives fédérales suisses et la stratégie numérique suisse 2025. <br>
 
-Les résultats montrent que les stratégies numériques comprenant l’amélioration des systèmes d’information, la numérisation des archives renforce et dynamise la diffusion des archives. Néanmoins le numérique soulève de nombreuses questions pour la profession d’archiviste notamment pour s’adapter à ses enjeux, mais également en termes de moyens très inégaux entre les institutions romandes et de risque lié à la recherche et l’accessibilité des archives vis-à-vis des usagers. <br>
-
+Les résultats montrent que les stratégies numériques comprenant l’amélioration des systèmes d’information, la numérisation des archives renforce et dynamise la diffusion des archives. Néanmoins le numérique soulève de nombreuses questions pour la profession d’archiviste notamment pour s’adapter à ses enjeux, mais également en termes de moyens très inégaux entre les institutions romandes et des risques liés à la recherche et l’accessibilité des archives vis-à-vis des usagers. <br>
 
 
 ## Contenu des données de recherche
@@ -22,5 +21,9 @@ Le rendu contient les éléments suivants :
 
 - un README détaillant le contenu du rendu.
 - Mention de la licence pour les données de cette étude.
+- Le dossier Enquête contenant les réponses à celle-ci.
+- Le dossier Notebook contient le code python utilisée pour générer les visualisations de données et calculer les statistiques.
+- Le dossier Rapport contient le rapport d'étude, soit les résultats en contexte et interprétés.
+- Le dossier Statistiques contient les données statistiques utilisées pour mon étude.
 
 
